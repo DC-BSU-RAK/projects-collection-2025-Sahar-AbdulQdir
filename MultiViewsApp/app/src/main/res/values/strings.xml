@@ -1,0 +1,67 @@
+<resources>
+
+    <string name="app_name">Biometric Login Sample</string>
+    <string name="username_hint">phone number, email, or username</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="already_signedin">You are now done with login. Move to your real MainActivity</string>
+    <string name="title_activity_enable_biometric_login">Enable BiometricLogin</string>
+    <string name="enable_biometric_login">Enable Biometric Login</string>
+    <string name="desc_biometrics_authorization">Enter your login ID and password to confirm activation of Biometric Login.</string>
+    <string name="cancel">Cancel</string>
+    <string name="btn_authorize">Authorize</string>
+    <string name="prompt_info_title">Study Mate Authentication</string>
+    <string name="prompt_info_subtitle">Please login to get access</string>
+    <string name="prompt_info_description">Study Mate is using Android biometric authentication</string>
+    <string name="prompt_info_use_app_password">Use app password</string>
+    <string name="secret_key_name">biometric_sample_encryption_key</string>
+
+    <string name="welcome_message">Welcome، %1$s!</string>
+    <string name="create_new_room">Motivate me</string>
+    <string name="or_separator">— or —</string>
+    <string name="join_existing_room">Join Room</string>
+    <string name="join_with_friends">Join with Friends</string>
+
+    <!--    Language  -->
+    <string name="btnEnglish">English</string>
+    <string name="btnArabic"> Arabic</string>
+    <string name="btnUrdu">Urdu</string>
+    <string name="switchMuteToast">Mute Toast Messages</string>
+    <string name="switchMuteSound">Mute App Sounds</string>
+
+    <string name="toast_muted">Toasts muted</string>
+    <string name="toast_unmuted">Toasts unmuted</string>
+    <string name="sound_muted">Sounds muted</string>
+    <string name="sound_unmuted">Sounds unmuted</string>
+
+
+    <string name="room_name">Room Name</string>
+    <string name="add_task">Add Task</string>
+    <string name="default_timer">25:00</string>
+
+
+    <string name="enter_room_code">Enter Room Code</string>
+    <string name="join">Join</string>
+    <string name="or">— or —</string>
+
+    <string name="user_avatar">User Avatar</string>
+    <string name="change_avatar">Change Avatar</string>
+    <string name="username">Username</string>
+    <string name="tasks_completed">Tasks Completed</string>
+    <string name="time_spent">Time Spent (Hours)</string>
+
+
+    <string name="back">Back</string>
+    <string name="choose_room">Choose Your Room</string>
+    <string name="pick_vibe">Pick a vibe to start study</string>
+
+    <string name="mute">Mute</string>
+
+    <string name="load_more">Load more</string>
+
+    <string name="create_with_friends">Join room with friends</string>
+
+
+</resources>

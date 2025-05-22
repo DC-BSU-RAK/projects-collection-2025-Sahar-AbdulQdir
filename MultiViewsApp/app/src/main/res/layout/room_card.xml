@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardRoot"
+    android:layout_width="0dp"
+    android:layout_height="wrap_content"
+    android:layout_columnWeight="1"
+    android:layout_margin="8dp"
+    android:elevation="8dp"
+
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="#F7D358"
+        android:backgroundTint="#F7D358"
+        android:strokeWidth="0"
+        android:strokeColor="#00FFFFFF">
+
+        <ImageView
+            android:id="@+id/roomImage"
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:background="#F7D358"
+            android:backgroundTint="#F7D358"
+            android:contentDescription="Room background"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/roomName"
+            android:layout_width="160dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="#80F2F2F2"
+            android:gravity="center"
+            android:padding="8dp"
+            android:text="Room Name"
+            android:textColor="@android:color/white"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+    </FrameLayout>
+</com.google.android.material.card.MaterialCardView>

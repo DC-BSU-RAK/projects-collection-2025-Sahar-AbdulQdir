@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lavender">#E6E6FA</color> <!-- Light lavender color -->
+    <color name="purple_500">#6200EE</color> <!-- Example default purple -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="grey">#808080</color> <!-- Fixed grey color (was yellow) -->
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Background colors -->
+    <color name="bgColor1_lavender">#E6E6FA</color>
+    <color name="bgColor2_blue">#2196F3</color>
+    <color name="bgColor3_green">#4CAF50</color>
+    <color name="bgColor4_dark">#121212</color>
+
+    <!-- Widget colors -->
+    <color name="widgetColor1_white">#FFFFFF</color>
+    <color name="widgetColor2_gray">#808080</color>
+
+    <!-- Font colors -->
+    <color name="fontColor1_black">#000000</color>
+    <color name="fontColor2_white">#FFFFFF</color>
+</resources>

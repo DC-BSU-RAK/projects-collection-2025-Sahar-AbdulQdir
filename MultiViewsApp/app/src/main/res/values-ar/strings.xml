@@ -1,0 +1,75 @@
+<resources>
+
+
+    <string name="app_name">تسجيل الدخول البيومتري النموذجي</string>
+    <string name="username_hint">رقم الهاتف، البريد الإلكتروني، أو اسم المستخدم</string>
+    <string name="invalid_username">اسم المستخدم غير صالح</string>
+    <string name="invalid_password">يجب أن تكون كلمة المرور أكثر من 5 أحرف</string>
+    <string name="password">كلمة المرور</string>
+    <string name="btn_login">تسجيل الدخول</string>
+    <string name="already_signedin">لقد أكملت تسجيل الدخول. انتقل إلى MainActivity الحقيقي</string>
+    <string name="title_activity_enable_biometric_login">تفعيل تسجيل الدخول البيومتري</string>
+    <string name="enable_biometric_login">تفعيل تسجيل الدخول البيومتري</string>
+    <string name="desc_biometrics_authorization">أدخل معرف تسجيل الدخول وكلمة المرور لتأكيد تفعيل تسجيل الدخول البيومتري.</string>
+    <string name="cancel">إلغاء</string>
+    <string name="btn_authorize">تفويض</string>
+    <string name="prompt_info_title">مصادقة التطبيق النموذجي</string>
+    <string name="prompt_info_subtitle">يرجى تسجيل الدخول للوصول</string>
+    <string name="prompt_info_description">يستخدم التطبيق النموذجي المصادقة البيومترية من Android</string>
+    <string name="prompt_info_use_app_password">استخدام كلمة مرور التطبيق</string>
+    <string name="secret_key_name">مفتاح_تشفير_تسجيل_الدخول_البيومتري</string>
+
+
+    <string name="welcome_message">مرحبا، %1$s!</string>
+        <string name="create_new_room">التحفيزات</string>
+        <string name="or_separator">— أو —</string>
+        <string name="join_existing_room">الانضمام إلى غرفة</string>
+    <string name="create_with_friends">إنشاء غرفة</string>
+        <string name="join_with_friends">انضم مع الأصدقاء</string>
+
+
+
+    <string name="btnEnglish">الإنجليزية</string>
+    <string name="btnArabic">العربية</string>
+    <string name="btnUrdu">الأردية</string>
+    <string name="switchMuteToast">كتم رسائل التوست</string>
+    <string name="switchMuteSound">كتم أصوات التطبيق</string>
+
+    <string name="toast_muted">تم كتم التنبيهات</string>
+    <string name="toast_unmuted">تم تفعيل التنبيهات</string>
+    <string name="sound_muted">تم كتم الأصوات</string>
+    <string name="sound_unmuted">تم تفعيل الأصوات</string>
+
+
+    <string name="room_name">اسم الغرفة</string>
+    <string name="add_task">أضف مهمة</string>
+    <string name="default_timer">٢٥:٠٠</string>
+
+
+    <string name="enter_room_code">أدخل رمز الغرفة</string>
+    <string name="join">انضم</string>
+    <string name="or">— أو —</string>
+
+
+    <string name="user_avatar">صورة المستخدم</string>
+    <string name="change_avatar">تغيير الصورة</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="tasks_completed">المهام المكتملة</string>
+    <string name="time_spent">الوقت المستغرق (ساعات)</string>
+
+    <string name="back">رجوع</string>
+    <string name="choose_room">اختر غرفتك</string>
+    <string name="pick_vibe">اختر الأجواء لبدء الدراسة</string>
+
+    <string name="mute">كتم</string>
+
+
+    <string name="load_more">تحميل المزيد</string>
+    <string-array name="quote_tags">
+        <item>تحفيز</item>
+        <item>حب</item>
+        <item>حكمة</item>
+        <item>نجاح</item>
+    </string-array>
+
+</resources>

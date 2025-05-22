@@ -1,0 +1,79 @@
+<resources>
+
+    <string name="app_name">بایومیٹرک لاگ ان نمونہ</string>
+    <string name="username_hint">فون نمبر، ای میل، یا صارف نام</string>
+    <string name="invalid_username">درست صارف نام نہیں</string>
+    <string name="invalid_password">پاس ورڈ 5 حروف سے زیادہ ہونا چاہیے</string>
+    <string name="password">پاس ورڈ</string>
+    <string name="btn_login">لاگ ان کریں</string>
+    <string name="already_signedin">آپ لاگ ان مکمل کر چکے ہیں۔ اب اصل مین ایکٹیویٹی پر جائیں</string>
+    <string name="title_activity_enable_biometric_login">بایومیٹرک لاگ ان فعال کریں</string>
+    <string name="enable_biometric_login">بایومیٹرک لاگ ان فعال کریں</string>
+    <string name="desc_biometrics_authorization">بایومیٹرک لاگ ان فعال کرنے کی تصدیق کے لیے اپنا لاگ ان آئی ڈی اور پاس ورڈ درج کریں۔</string>
+    <string name="cancel">منسوخ کریں</string>
+    <string name="btn_authorize">تصدیق کریں</string>
+    <string name="prompt_info_title">نمونہ ایپ تصدیق</string>
+    <string name="prompt_info_subtitle">رسائی حاصل کرنے کے لیے لاگ ان کریں</string>
+    <string name="prompt_info_description">نمونہ ایپ اینڈرائیڈ بایومیٹرک توثیق استعمال کر رہی ہے</string>
+    <string name="prompt_info_use_app_password">ایپ کا پاس ورڈ استعمال کریں</string>
+    <string name="secret_key_name">بایومیٹرک_نمونہ_انکرپشن_کلید</string>
+
+    <string name="create_with_friends">دوستوں کے ساتھ روم میں شامل ہوں</string>
+
+
+    <string name="welcome_message">خوش آمدید، %1$s!</string>
+    <string name="create_new_room">نیا کمرہ بنائیں</string>
+    <string name="or_separator">— یا —</string>
+    <string name="join_existing_room">کمرے میں شامل ہوں</string>
+    <string name="join_with_friends">دوستوں کے ساتھ شامل ہوں</string>
+
+
+    <string name="btnEnglish">انگریزی</string>
+    <string name="btnArabic">عربی</string>
+    <string name="btnUrdu">اردو</string>
+    <string name="switchMuteToast">ٹوسٹ پیغامات بند کریں</string>
+    <string name="switchMuteSound">ایپ کی آوازیں بند کریں</string>
+
+    <string name="toast_muted">ٹوسٹ میسجز بند کر دیے گئے</string>
+    <string name="toast_unmuted">ٹوسٹ میسجز فعال کر دیے گئے</string>
+    <string name="sound_muted">ایپ کی آوازیں بند کر دی گئیں</string>
+    <string name="sound_unmuted">ایپ کی آوازیں فعال کر دی گئیں</string>
+
+
+
+    <string name="room_name">کمرے کا نام</string>
+    <string name="add_task">کام شامل کریں</string>
+
+    <string name="default_timer">۲۵:۰۰</string>
+
+
+
+        <string name="enter_room_code">کمرے کا کوڈ درج کریں</string>
+        <string name="join">شامل ہوں</string>
+        <string name="or">— یا —</string>
+
+
+    <string name="user_avatar">صارف کی تصویر</string>
+    <string name="change_avatar">تصویر تبدیل کریں</string>
+    <string name="username">صارف نام</string>
+    <string name="tasks_completed">مکمل شدہ کام</string>
+    <string name="time_spent">صرف شدہ وقت (گھنٹے)</string>
+
+
+    <string name="back">واپس</string>
+    <string name="choose_room">اپنا کمرہ منتخب کریں</string>
+    <string name="pick_vibe">پڑھائی شروع کرنے کے لیے ماحول منتخب کریں</string>
+
+
+    <string name="mute">خاموش کریں</string>
+
+
+    <string name="load_more">مزید لوڈ کریں</string>
+    <string-array name="quote_tags">
+        <item>حوصلہ افزائی</item>
+        <item>محبت</item>
+        <item>دانائی</item>
+        <item>کامیابی</item>
+    </string-array>
+
+</resources>

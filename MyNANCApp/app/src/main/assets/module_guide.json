@@ -1,0 +1,3246 @@
+{
+  "majors": [
+    {
+      "name": "Creative Computing",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Digital Visual Design",
+                  "information": "Digital Visual Design introduces students to the knowledge, skills, and practice in visualizing, designing, and developing highly contemporary and professional interfaces for all of their working and usable digital artifacts.",
+                  "tools": [
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Figma Help Center",
+                      "url": "https://help.figma.com/hc/en-us",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Figma Learn Design Basics",
+                      "url": "https://www.figma.com/resources/learn-design/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Digital Storytelling",
+                  "information": "Digital Storytelling introduces a variety of media-making techniques and approaches to interactivity that serves storytelling.",
+                  "tools": [
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    },
+                    {
+                      "name": "Photopea",
+                      "url": "https://www.photopea.com/",
+                      "image": "https://i.imgur.com/EpnwmMZ.png"
+                    },
+                    {
+                      "name": "Twine",
+                      "url": "https://twinery.org/",
+                      "image": "https://i.imgur.com/SK3C5tL.jpeg"
+                    },
+                    {
+                      "name": "CapCut",
+                      "url": "https://www.capcut.com/",
+                      "image": "https://i.imgur.com/KZN23NE.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Figma Tutorials",
+                      "url": "https://help.figma.com/hc/en-us/categories/360001784733-Tutorials",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Canva Design School",
+                      "url": "https://www.canva.com/learn/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Photopea User Manual",
+                      "url": "https://www.photopea.com/learn/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Twine cookbook",
+                      "url": "https://twinery.org/cookbook/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Code Lab I",
+                  "information": "CodeLab I is a rapid prototyping workshop series that introduces the fundamentals of procedural programming.",
+                  "tools": [
+                    {
+                      "name": "Python",
+                      "url": "https://www.python.org/",
+                      "image": "https://i.imgur.com/R5fUn0y.jpeg"
+                    },
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Python Official Docs",
+                      "url": "https://docs.python.org/3/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Python Beginner’s Guide",
+                      "url": "https://wiki.python.org/moin/BeginnersGuide",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Creative Coding",
+                  "information": "Creative Coding is a practice that uses code for artistic or creative expression. This can cover a wide variety of media including generative art, animation, data visualization, games, apps, robotics, music, interactive art, immersive experiences – and many more.",
+                  "tools": [
+                    {
+                      "name": "p5.js",
+                      "url": "https://p5js.org/",
+                      "image": "https://i.imgur.com/bf8HZ6R.png"
+                    },
+                    {
+                      "name": "SonicPi",
+                      "url": "https://sonic-pi.net/",
+                      "image": "https://i.imgur.com/OckkOdh.png"
+                    },
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "SonicPi",
+                      "url": "https://sonic-pi.net/tutorial.html",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "p5.js Reference",
+                      "url": "https://p5js.org/reference/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev I",
+                  "information": "The web is rapidly becoming the go-to environment for deploying and using the software. We rely on web technologies to manage our work and social lives, collaborate with like-minded people, experience art, and be entertained.",
+                  "tools": [
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    },
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "HTML",
+                      "url": "https://www.w3schools.com/Html/",
+                      "image": "https://i.imgur.com/eCODY6j.png"
+                    },
+                    {
+                      "name": "CSS",
+                      "url": "https://www.w3schools.com/css/",
+                      "image": "https://i.imgur.com/njyRxEQ.png"
+                    },
+                    {
+                      "name": "JS",
+                      "url": "https://www.w3schools.com/js/",
+                      "image": "https://i.imgur.com/6ZAHaRT.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Visual Studio Code Docs",
+                      "url": "https://code.visualstudio.com/docs",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "GitHub Docs",
+                      "url": "https://docs.github.com/en",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Essential Guide to Frontend Technical Documentation",
+                      "url": "https://medium.com/@pantamilan2021/the-essential-guide-to-frontend-technical-documentation-232ea187919a",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Ideation & UX Design",
+                  "information": "The aim of this module is to expose the full design cycle, from the initial idea generation and analysis, audience research, and user profiling, through the interface design (across device types) and prototype development, to testing, evaluation, and iteration.",
+                  "tools": [
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    },
+                    {
+                      "name": "MakeyMakey",
+                      "url": "https://makeymakey.com/?srsltid=AfmBOorVSaFuaV-vAR8EXtWoCUIbwTHOEZyFYT4KWAjQNSNIt9sSDQP-",
+                      "image": "https://i.imgur.com/9QAQ4aT.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Figma UX Design Basics",
+                      "url": "https://www.figma.com/resources/learn-ux-design/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "MakeyMakey Project guide",
+                      "url": "https://makeymakey.com/pages/how-to?srsltid=AfmBOoowjSiN_sIXG6gh6ZqQ6AWlD6_3xHzRr1SZqOpmny1rdFg2mX_Y",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Code Lab II",
+                  "information": "CodeLab II extends your knowledge of coding to include object-oriented programming (OOP).",
+                  "tools": [
+                    {
+                      "name": "Python Tkinter",
+                      "url": "https://docs.python.org/3/library/tk.html",
+                      "image": "https://i.imgur.com/yY5tOyi.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Tkinter Documentation",
+                      "url": "https://docs.python.org/3/library/tk.html",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev II",
+                  "information": "Web Dev II builds on the HTML5, CSS, and JavaScript programming skills covered in Web Dev I. Following an HTML5 and CSS refresher, students will be introduced to more advanced CSS techniques that they will use throughout the module to create engaging, responsive, and well-designed web content",
+                  "tools": [
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    },
+                    {
+                      "name": "MongoDB",
+                      "url": "https://www.mongodb.com/",
+                      "image": "https://i.imgur.com/soGLdxf.png"
+                    },
+                    {
+                      "name": "FrontEnd Languages",
+                      "url": "https://roadmap.sh/frontend/languages",
+                      "image": "https://i.imgur.com/9kpyje7.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "VS Code Advanced Tips",
+                      "url": "https://code.visualstudio.com/docs/editor/userdefinedsnippets",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "MongoDB Tutorial",
+                      "url": "https://www.w3schools.com/mongodb/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Responsive Web Design",
+                      "url": "https://www.w3schools.com/css/css_rwd_intro.asp",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Indie Game Design",
+                  "information": "In this module, students develop a 2D game from concept to completion, and in doing so, engage the function and responsibilities of all key roles to gain an understanding of the full ‘game development ecosystem.",
+                  "tools": [
+                    {
+                      "name": "Unity",
+                      "url": "https://unity.com/",
+                      "image": "https://i.imgur.com/PW3rbCS.png"
+                    },
+                    {
+                      "name": "C#",
+                      "url": "https://dotnet.microsoft.com/en-us/languages/csharp#:~:text=C%23%20is%20a%20modern%2C%20innovative,5%20programming%20languages%20on%20GitHub.",
+                      "image": "https://i.imgur.com/XNTSMXo.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Unity Learn Platform",
+                      "url": "https://learn.unity.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "C# Tutorial",
+                      "url": "https://www.w3schools.com/cs/index.php",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Emerging Technologies",
+                  "information": "Discover the latest trends and tools shaping the future of technology, from AI to data visualization.",
+                  "tools": [
+                    {
+                      "name": "Flourish",
+                      "url": "https://flourish.studio/",
+                      "image": "https://i.imgur.com/P05o7ev.png"
+                    },
+                    {
+                      "name": "Dialogflow",
+                      "url": "https://dialogflow.cloud.google.com/",
+                      "image": "https://i.imgur.com/om07bM6.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Flourish Tutorials",
+                      "url": "https://flourish.studio/learn/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Dialogflow Docs",
+                      "url": "https://cloud.google.com/dialogflow/docs",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Creative Industry Challenge",
+                  "information": "Work on a real-world project, integrating creative skills and technologies to solve practical challenges.",
+                  "tools": [
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    },
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    },
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "FrontEnd Languages",
+                      "url": "https://roadmap.sh/frontend/languages",
+                      "image": "https://i.imgur.com/9kpyje7.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Android Developers Guide",
+                      "url": "https://developer.android.com/guide",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Get started with Kotlin",
+                      "url": "https://kotlinlang.org/docs/getting-started.html",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Smartphone Apps",
+                  "information": "Design and develop mobile applications, focusing on Android environments and user-centered design.",
+                  "tools": [
+                    {
+                      "name": "Android Studio",
+                      "url": "https://developer.android.com/studio",
+                      "image": "https://i.imgur.com/pXQXVvN.jpeg"
+                    },
+                    {
+                      "name": "Kotlin",
+                      "url": "https://kotlinlang.org/",
+                      "image": "https://i.imgur.com/3037TDq.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Android Developers Guide",
+                      "url": "https://developer.android.com/guide",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Get started with Kotlin",
+                      "url": "https://kotlinlang.org/docs/getting-started.html",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Machine Learning",
+                  "information": "Learn the fundamentals of visual communication and digital design using modern tools and workflows.",
+                  "tools": [
+                    {
+                      "name": "Kaggle",
+                      "url": "https://www.kaggle.com/",
+                      "image": "https://i.imgur.com/z2GTLH7.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Intro to Machine Learning",
+                      "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Creative Incubator",
+                  "information": "Creative Incubator is about exploring the commercial viability of students' digital ideas. It helps them transform proposals for new digital products or services into commodifiable prototypes.",
+                  "tools": [
+                    {
+                      "name": " Graduation Project",
+                      "url": "https://www.dcstuds.com/creativeincubator-portfolio",
+                      "image": "https://i.imgur.com/zM1w6Yq.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Program information",
+                      "url": "https://www.dcstuds.com/creativeincubator-portfolio",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cyber Security",
+                  "information": "All businesses face the threat of their IT systems being compromised. The impact of a successful attack is often expensive in terms of time and money for the businesses and individuals affected.",
+                  "tools": [
+                    {
+                      "name": "Kali Linux",
+                      "url": "https://www.kali.org/",
+                      "image": "https://i.imgur.com/UpPkymF.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Program information",
+                      "url": "https://www.dcstuds.com/physicalcomputing-portfolio",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Physical Computing",
+                  "information": "Physical Computing helps make the inanimate, animate. It provides the knowledge and tools to help students create functional or artistic pieces that are tangible, driven by real-world data, and possible to deploy in a wide range of scenarios.",
+                  "tools": [
+                    {
+                      "name": "Tinkercad",
+                      "url": "https://www.tinkercad.com/",
+                      "image": "https://i.imgur.com/gDwVW1c.jpeg"
+                    },
+                    {
+                      "name": "Arduino",
+                      "url": "https://www.arduino.cc/",
+                      "image": "https://i.imgur.com/CARj04p.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Arduino Documentation",
+                      "url": "https://docs.arduino.cc/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Learning Tinkercad",
+                      "url": "https://www.tinkercad.com/learn",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Research Project",
+                  "information": "The Research Project is a compressed research module where the output is a research report. Students form a research question in the field of creative computing, identify appropriate research methods for addressing the question, undertake the research, and then defend their work.",
+                  "tools": [
+                    {
+                      "name": "Google Scholar",
+                      "url": "https://scholar.google.com/",
+                      "image": "https://i.imgur.com/M7NTYh3.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "About Google Scholar",
+                      "url": "https://scholar.google.com/intl/en/scholar/about.html",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tomorrow's Web",
+                  "information": "This module builds on the front-end development techniques encountered in Web Dev II and introduces back-end techniques to develop creative database-driven web apps. Students learn how to handle database information, perform queries and use the results to deliver dynamic content to the end user.",
+                  "tools": [
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    },
+                    {
+                      "name": "MongoDB",
+                      "url": "https://www.mongodb.com/",
+                      "image": "https://i.imgur.com/soGLdxf.png"
+                    },
+                    {
+                      "name": "FrontEnd Languages",
+                      "url": "https://roadmap.sh/frontend/languages",
+                      "image": "https://i.imgur.com/9kpyje7.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "VS Code Advanced Tips",
+                      "url": "https://code.visualstudio.com/docs/editor/userdefinedsnippets",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "MongoDB Tutorial",
+                      "url": "https://www.w3schools.com/mongodb/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Responsive Web Design",
+                      "url": "https://www.w3schools.com/css/css_rwd_intro.asp",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cyber Security",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Fundamentals of Cyber Security",
+                  "information": "Cyber security has been defined as one of the key threats to the prosperity of the United Kingdom by the government, while similar conclusions have been drawn across the globe. The threat to individuals, businesses and the public sector has never been greater.",
+                  "tools": [
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Figma Help Center",
+                      "url": "https://help.figma.com/hc/en-us",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Figma Learn Design Basics",
+                      "url": "https://www.figma.com/resources/learn-design/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Introduction to Computing",
+                  "information": "Computer Science is all about effective problem solving using data. But what, exactly, is data, and what do we need to know about it? How can we use it? What problems can there be in its use and storage? In this module you will learn what data is, how it is represented, manipulated, processed, stored, transferred, error-checked and compressed.",
+                  "tools": [
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    },
+                    {
+                      "name": "Photopea",
+                      "url": "https://www.photopea.com/",
+                      "image": "https://i.imgur.com/EpnwmMZ.png"
+                    },
+                    {
+                      "name": "Twine",
+                      "url": "https://twinery.org/",
+                      "image": "https://i.imgur.com/SK3C5tL.jpeg"
+                    },
+                    {
+                      "name": "CapCut",
+                      "url": "https://www.capcut.com/",
+                      "image": "https://i.imgur.com/KZN23NE.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Figma Tutorials",
+                      "url": "https://help.figma.com/hc/en-us/categories/360001784733-Tutorials",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Canva Design School",
+                      "url": "https://www.canva.com/learn/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Photopea User Manual",
+                      "url": "https://www.photopea.com/learn/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Twine cookbook",
+                      "url": "https://twinery.org/cookbook/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Code Lab I",
+                  "information": "CodeLab I is a rapid prototyping workshop series that introduces the fundamentals of procedural programming.",
+                  "tools": [
+                    {
+                      "name": "Python",
+                      "url": "https://www.python.org/",
+                      "image": "https://i.imgur.com/R5fUn0y.jpeg"
+                    },
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Python Official Docs",
+                      "url": "https://docs.python.org/3/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Python Beginner’s Guide",
+                      "url": "https://wiki.python.org/moin/BeginnersGuide",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Databases",
+                  "information": "This module provides an introduction to the design, creation and use of databases. It exposes particularly the function of relational databases, and the various data modelling approaches required to create solutions that are organised efficiently, robust and secure.",
+                  "tools": [
+                    {
+                      "name": "p5.js",
+                      "url": "https://p5js.org/",
+                      "image": "https://i.imgur.com/bf8HZ6R.png"
+                    },
+                    {
+                      "name": "SonicPi",
+                      "url": "https://sonic-pi.net/",
+                      "image": "https://i.imgur.com/OckkOdh.png"
+                    },
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "SonicPi",
+                      "url": "https://sonic-pi.net/tutorial.html",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "p5.js Reference",
+                      "url": "https://p5js.org/reference/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev I",
+                  "information": "The web is rapidly becoming the go-to environment for deploying and using the software. We rely on web technologies to manage our work and social lives, collaborate with like-minded people, experience art, and be entertained.",
+                  "tools": [
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    },
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "HTML",
+                      "url": "https://www.w3schools.com/Html/",
+                      "image": "https://i.imgur.com/eCODY6j.png"
+                    },
+                    {
+                      "name": "CSS",
+                      "url": "https://www.w3schools.com/css/",
+                      "image": "https://i.imgur.com/njyRxEQ.png"
+                    },
+                    {
+                      "name": "JS",
+                      "url": "https://www.w3schools.com/js/",
+                      "image": "https://i.imgur.com/6ZAHaRT.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Visual Studio Code Docs",
+                      "url": "https://code.visualstudio.com/docs",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "GitHub Docs",
+                      "url": "https://docs.github.com/en",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Essential Guide to Frontend Technical Documentation",
+                      "url": "https://medium.com/@pantamilan2021/the-essential-guide-to-frontend-technical-documentation-232ea187919a",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Digital Forensics",
+                  "information": "Digital forensics concerns techniques for recovering and analysing material found on computing devices. Often leveraged to investigate instances of cyber crime but also network intrusion and other forms of legal dispute, the field has in recent years gained significant relevance for both the private and public sector.",
+                  "tools": [
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    },
+                    {
+                      "name": "MakeyMakey",
+                      "url": "https://makeymakey.com/?srsltid=AfmBOorVSaFuaV-vAR8EXtWoCUIbwTHOEZyFYT4KWAjQNSNIt9sSDQP-",
+                      "image": "https://i.imgur.com/9QAQ4aT.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Figma UX Design Basics",
+                      "url": "https://www.figma.com/resources/learn-ux-design/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "MakeyMakey Project guide",
+                      "url": "https://makeymakey.com/pages/how-to?srsltid=AfmBOoowjSiN_sIXG6gh6ZqQ6AWlD6_3xHzRr1SZqOpmny1rdFg2mX_Y",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Code Lab II",
+                  "information": "CodeLab II extends your knowledge of coding to include object-oriented programming (OOP).",
+                  "tools": [
+                    {
+                      "name": "Python Tkinter",
+                      "url": "https://docs.python.org/3/library/tk.html",
+                      "image": "https://i.imgur.com/yY5tOyi.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Tkinter Documentation",
+                      "url": "https://docs.python.org/3/library/tk.html",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Web Dev II",
+                  "information": "Web Dev II builds on the HTML5, CSS, and JavaScript programming skills covered in Web Dev I. Following an HTML5 and CSS refresher, students will be introduced to more advanced CSS techniques that they will use throughout the module to create engaging, responsive, and well-designed web content",
+                  "tools": [
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    },
+                    {
+                      "name": "MongoDB",
+                      "url": "https://www.mongodb.com/",
+                      "image": "https://i.imgur.com/soGLdxf.png"
+                    },
+                    {
+                      "name": "FrontEnd Languages",
+                      "url": "https://roadmap.sh/frontend/languages",
+                      "image": "https://i.imgur.com/9kpyje7.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "VS Code Advanced Tips",
+                      "url": "https://code.visualstudio.com/docs/editor/userdefinedsnippets",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "MongoDB Tutorial",
+                      "url": "https://www.w3schools.com/mongodb/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Responsive Web Design",
+                      "url": "https://www.w3schools.com/css/css_rwd_intro.asp",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Indie Game Design",
+                  "information": "In this module, students develop a 2D game from concept to completion, and in doing so, engage the function and responsibilities of all key roles to gain an understanding of the full ‘game development ecosystem.",
+                  "tools": [
+                    {
+                      "name": "Unity",
+                      "url": "https://unity.com/",
+                      "image": "https://i.imgur.com/PW3rbCS.png"
+                    },
+                    {
+                      "name": "C#",
+                      "url": "https://dotnet.microsoft.com/en-us/languages/csharp#:~:text=C%23%20is%20a%20modern%2C%20innovative,5%20programming%20languages%20on%20GitHub.",
+                      "image": "https://i.imgur.com/XNTSMXo.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Unity Learn Platform",
+                      "url": "https://learn.unity.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "C# Tutorial",
+                      "url": "https://www.w3schools.com/cs/index.php",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Emerging Technologies",
+                  "information": "Discover the latest trends and tools shaping the future of technology, from AI to data visualization.",
+                  "tools": [
+                    {
+                      "name": "Flourish",
+                      "url": "https://flourish.studio/",
+                      "image": "https://i.imgur.com/P05o7ev.png"
+                    },
+                    {
+                      "name": "Dialogflow",
+                      "url": "https://dialogflow.cloud.google.com/",
+                      "image": "https://i.imgur.com/om07bM6.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Flourish Tutorials",
+                      "url": "https://flourish.studio/learn/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Dialogflow Docs",
+                      "url": "https://cloud.google.com/dialogflow/docs",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Creative Industry Challenge",
+                  "information": "Work on a real-world project, integrating creative skills and technologies to solve practical challenges.",
+                  "tools": [
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    },
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/cca1becc3bc80d83d8fa71d8e6f92738f84671c4"
+                    },
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "FrontEnd Languages",
+                      "url": "https://roadmap.sh/frontend/languages",
+                      "image": "https://i.imgur.com/9kpyje7.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Android Developers Guide",
+                      "url": "https://developer.android.com/guide",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Get started with Kotlin",
+                      "url": "https://kotlinlang.org/docs/getting-started.html",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Smartphone Apps",
+                  "information": "Design and develop mobile applications, focusing on Android environments and user-centered design.",
+                  "tools": [
+                    {
+                      "name": "Android Studio",
+                      "url": "https://developer.android.com/studio",
+                      "image": "https://i.imgur.com/pXQXVvN.jpeg"
+                    },
+                    {
+                      "name": "Kotlin",
+                      "url": "https://kotlinlang.org/",
+                      "image": "https://i.imgur.com/3037TDq.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Android Developers Guide",
+                      "url": "https://developer.android.com/guide",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Get started with Kotlin",
+                      "url": "https://kotlinlang.org/docs/getting-started.html",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Machine Learning",
+                  "information": "Learn the fundamentals of visual communication and digital design using modern tools and workflows.",
+                  "tools": [
+                    {
+                      "name": "Kaggle",
+                      "url": "https://www.kaggle.com/",
+                      "image": "https://i.imgur.com/z2GTLH7.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Intro to Machine Learning",
+                      "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Creative Incubator",
+                  "information": "Creative Incubator is about exploring the commercial viability of students' digital ideas. It helps them transform proposals for new digital products or services into commodifiable prototypes.",
+                  "tools": [
+                    {
+                      "name": " Graduation Project",
+                      "url": "https://www.dcstuds.com/creativeincubator-portfolio",
+                      "image": "https://imgur.com/6f5cdba3-100c-4b4e-b899-06cb2f2f8f92"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Program information",
+                      "url": "https://www.dcstuds.com/creativeincubator-portfolio",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cyber Security",
+                  "information": "All businesses face the threat of their IT systems being compromised. The impact of a successful attack is often expensive in terms of time and money for the businesses and individuals affected.",
+                  "tools": [
+                    {
+                      "name": "Kali Linux",
+                      "url": "https://www.kali.org/",
+                      "image": "https://i.imgur.com/UpPkymF.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Program information",
+                      "url": "https://www.dcstuds.com/physicalcomputing-portfolio",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Physical Computing",
+                  "information": "Physical Computing helps make the inanimate, animate. It provides the knowledge and tools to help students create functional or artistic pieces that are tangible, driven by real-world data, and possible to deploy in a wide range of scenarios.",
+                  "tools": [
+                    {
+                      "name": "Tinkercad",
+                      "url": "https://www.tinkercad.com/",
+                      "image": "https://i.imgur.com/gDwVW1c.jpeg"
+                    },
+                    {
+                      "name": "Arduino",
+                      "url": "https://www.arduino.cc/",
+                      "image": "https://i.imgur.com/CARj04p.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Arduino Documentation",
+                      "url": "https://docs.arduino.cc/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Learning Tinkercad",
+                      "url": "https://www.tinkercad.com/learn",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Research Project",
+                  "information": "The Research Project is a compressed research module where the output is a research report. Students form a research question in the field of creative computing, identify appropriate research methods for addressing the question, undertake the research, and then defend their work.",
+                  "tools": [
+                    {
+                      "name": "Google Scholar",
+                      "url": "https://scholar.google.com/",
+                      "image": "https://i.imgur.com/M7NTYh3.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "About Google Scholar",
+                      "url": "https://scholar.google.com/intl/en/scholar/about.html",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Tomorrow's Web",
+                  "information": "This module builds on the front-end development techniques encountered in Web Dev II and introduces back-end techniques to develop creative database-driven web apps. Students learn how to handle database information, perform queries and use the results to deliver dynamic content to the end user.",
+                  "tools": [
+                    {
+                      "name": "GitHub",
+                      "url": "https://github.com/",
+                      "image": "https://i.imgur.com/6K7tp6V.png"
+                    },
+                    {
+                      "name": "Visual Studio Code",
+                      "url": "https://code.visualstudio.com/",
+                      "image": "https://i.imgur.com/98jvgud.jpeg"
+                    },
+                    {
+                      "name": "MongoDB",
+                      "url": "https://www.mongodb.com/",
+                      "image": "https://i.imgur.com/soGLdxf.png"
+                    },
+                    {
+                      "name": "FrontEnd Languages",
+                      "url": "https://roadmap.sh/frontend/languages",
+                      "image": "https://i.imgur.com/9kpyje7.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "VS Code Advanced Tips",
+                      "url": "https://code.visualstudio.com/docs/editor/userdefinedsnippets",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "MongoDB Tutorial",
+                      "url": "https://www.w3schools.com/mongodb/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Responsive Web Design",
+                      "url": "https://www.w3schools.com/css/css_rwd_intro.asp",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Creative Media",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Creative Photography",
+                  "information": "This module will develop the student’s digital photography skills, as they devise a creative photography concept and deliver an individual creative portfolio. Using accessible technology, including mobile phones, students will gain an awareness of the principles of creative photography, such as focus, colour, composition, angle, exposure and shutter.",
+                  "tools": [
+                    {
+                      "name": "Adobe lightroom",
+                      "url": "https://lightroom.adobe.com/",
+                      "image": "https://i.imgur.com/4H4TcSE.png"
+                    },
+                    {
+                      "name": "Snapseed",
+                      "url": "https://snapseedpc.online/",
+                      "image": "https://i.imgur.com/aSXcXfG.png"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Digital Photography School",
+                      "url": "https://digital-photography-school.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "The Beginner’s Guide to Lightroom Mobile",
+                      "url": "https://www.adobe.com/learn/lightroom-cc",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Short Film Drama",
+                  "information": "The module will introduce students to basic use of lighting, camera, audio and editing technique and practice. The module will more broadly cover the process and workflow of media production.",
+                  "tools": [
+                    {
+                      "name": "DaVinci Resolve",
+                      "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+                      "image": "https://i.imgur.com/zzcslkg.jpeg"
+                    },
+                    {
+                      "name": "Rode Reporter App",
+                      "url": "https://rode.com/en/apps/reporter-app",
+                      "image": "https://i.imgur.com/otHbtGy.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Filmmaker IQ – Lighting Basics",
+                      "url": "https://filmmakeriq.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "No Film School",
+                      "url": "https://nofilmschool.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Digital Content Creation",
+                  "information": "The module aims to expose students to creative approaches to management and a managed approach to creativity, which can be transferred and developed to different scenarios across Levels 5 and 6.",
+                  "tools": [
+                    {
+                      "name": "Trello",
+                      "url": "https://trello.com/?campaign=18422680946&adgroup=142052239375&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=666240335175&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gbraid=0AAAAADMO9YilphpLqb_aeQz11M0qu8uWN&gclid=Cj0KCQjwlMfABhCWARIsADGXdy_GMyYdURbhkoHySoNIZ6oX-w1QF5In-V1GiXkzkkj3gW7ff9Us1csaAigyEALw_wcB",
+                      "image": "https://i.imgur.com/aADYIQg.png"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "HubSpot Content Creation Guide",
+                      "url": "https://blog.hubspot.com/marketing/content-creation",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Content Marketing Institute",
+                      "url": "https://contentmarketinginstitute.com/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Storytelling for Content Creation",
+                  "information": "This module will help you enhance your creative skills to become a critically aware and resilient content creator. You will develop skills that allow you to create content for a range of audiences and contexts.",
+                  "tools": [
+                    {
+                      "name": "Milanote",
+                      "url": "https://milanote.com/",
+                      "image": "https://i.imgur.com/XGe9WW4.png"
+                    },
+                    {
+                      "name": "Adobe Premiere Rush",
+                      "url": "https://www.adobe.com/ae_en/products/premiere-rush.html",
+                      "image": "https://i.imgur.com/KMlZjKN.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Pixar's 22 Rules of Storytelling",
+                      "url": "https://www.aerogrammestudio.com/2013/03/07/pixars-22-rules-of-storytelling/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "The Storytelling Nonprofit",
+                      "url": "https://www.thestorytellingnonprofit.com/blog/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Digital Practice",
+                  "information": "Digital Practice introduces the production of a variety of digital media (text, still and moving image, audio). It examines the use of digital media, and its platforms (TV, web, mobile, console) in a variety of cultural and social contexts in an attempt to form an understanding of how we consume, and rely on, digital media today.",
+                  "tools": [
+                    {
+                      "name": "Adobe Creative Cloud Express",
+                      "url": "https://creativecloud.adobe.com/",
+                      "image": "https://i.imgur.com/GgjGXLD.jpeg"
+                    },
+                    {
+                      "name": "Twine",
+                      "url": "https://twinery.org/",
+                      "image": "https://i.imgur.com/SK3C5tL.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "The Verge - Digital Culture",
+                      "url": "https://www.google.com/search?q=The+Verge+-+Digital+Culture&oq=The+Verge+-+Digital+Culture&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRiPAjIHCAMQIRiPAtIBBzU2OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Twine cookbook",
+                      "url": "https://twinery.org/cookbook/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Short Film Documentary",
+                  "information": "The module builds on FTV4004-20 and further develops your skills in the use of lighting, camera, audio and editing techniques.  However, the emphasis in this module is on documentary storytelling (in contrast to FTV4004-20’s focus on fiction).",
+                  "tools": [
+                    {
+                      "name": "Shotcut",
+                      "url": "https://www.shotcut.org/",
+                      "image": "https://i.imgur.com/UVWSVvd.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "POV Filmmaker Toolkit",
+                      "url": "https://www.pbs.org/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Documentary Family Awards Resource Page",
+                      "url": "https://documentaryfamilyawards.com/resources/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "BBC Academy - Documentary",
+                      "url": "https://www.bbc.co.uk/academy/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Everyday Media Making",
+                  "information": "Everyday Media Making explores the premise that media making can: empower people through connecting expose, challenge and critique dominant cultures provoke different ways of thinking/seeing embody participatory practices",
+                  "tools": [
+                    {
+                      "name": "inshot",
+                      "url": "https://inshot.com/",
+                      "image": "https://i.imgur.com/644ENcW.jpeg"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Gauntlett’s 'Making is Connecting'",
+                      "url": "https://www.openbookpublishers.com/books/10.11647/obp.0167",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "MIT OpenCourseWare - DIY Media",
+                      "url": "https://davidgauntlett.com/making-is-connecting-second-expanded-edition/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Advanced Digital Practice",
+                  "information": "This module builds on the programme’s emphasis on helping students to become critically engaged, and socially conscious, multi-platform digital content creators.",
+                  "tools": [
+                    {
+                      "name": "Blender",
+                      "url": "https://www.blender.org/",
+                      "image": "https://i.imgur.com/g57wbr5.png"
+                    },
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Creative Blog – Digital Trends",
+                      "url": "https://www.creativebloq.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Figma Help Center",
+                      "url": "https://help.figma.com/hc/en-us",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Participatory Media",
+                  "information": "This module explores the theory and practices of participatory arts and media, focussing on the latter. Henry Jenkins (2016) a key writer on participatory cultures notes that at a time of eroded public trust in core institutions and mainstream media increasingly concentrated into the hands of a few conglomerates, ‘grass roots media’ is ‘being deployed as the tool by which to challenge the failed mechanisms of institutional politics’.",
+                  "tools": [
+                    {
+                      "name": "Padlet",
+                      "url": "https://padlet.com/",
+                      "image": "https://i.imgur.com/PgYMN1C.png"
+                    },
+                    {
+                      "name": "Soundtrap",
+                      "url": "https://www.soundtrap.com/musicmakers",
+                      "image": "https://i.imgur.com/OgnCw9y.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Community Media Association",
+                      "url": "https://www.communitymedia.uk/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Henry Jenkins Blog",
+                      "url": "https://henryjenkins.org/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Visual Effects 1",
+                  "information": "The aim of this module is to provide an introduction to digital effects and animation processes and techniques, to ensure you are well equipped to begin to contribute to a professional film, television and digital production environment.",
+                  "tools": [
+                    {
+                      "name": "Adobe after effect",
+                      "url": "https://www.adobe.com/ae_en/products/aftereffects/campaign/pricing.html?gclid=Cj0KCQjwlMfABhCWARIsADGXdy9Krb3cagFuIU_MufomYM57Ocal0N9cchcynbgAj-B2hkQfpSCwYdgaAi7KEALw_wcB&skwcid=AL!3085!3!601019454842!e!!g!!adobe%20after%20effects&mv=search&mv2=paidsearch&sdid=G85SYKHF&ef_id=Cj0KCQjwlMfABhCWARIsADGXdy9Krb3cagFuIU_MufomYM57Ocal0N9cchcynbgAj-B2hkQfpSCwYdgaAi7KEALw_wcB:G:s&s_kwcid=AL!3085!3!601019454842!e!!g!!adobe%20after%20effects!12607168688!118501807663&gad_source=1&gbraid=0AAAAADraYsK1grSeMeVECFqiADn-1yLpZ",
+                      "image": "https://i.imgur.com/pUt26hU.png"
+                    },
+                    {
+                      "name": "Blender",
+                      "url": "https://www.blender.org/",
+                      "image": "https://i.imgur.com/g57wbr5.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Blender Nation",
+                      "url": "https://www.blendernation.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Video Copilot - AE Tutorials",
+                      "url": "https://www.videocopilot.net/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Commissioning Content Creation",
+                  "information": "This module aims to give students an understanding of commissioning in the media and securing freelance employment. ",
+                  "tools": [
+                    {
+                      "name": "Notion",
+                      "url": "https://www.notion.com/",
+                      "image": "https://i.imgur.com/aznSjnS.png"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Freelancers Union",
+                      "url": "https://freelancersunion.org/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "freelancersunion",
+                      "url": "https://freelancersunion.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Promotional Media",
+                  "information": "Examining the role of promotional media materials such as trailers, idents, social media, movie reviewers, ARGs, branded leisure attractions, PR, and the type of online user-generated content circulating between and beyond the main media products of creative industries, this module investigates the role of such promotional media on informing audience behaviours and fandoms amongst contemporary audiences.",
+                  "tools": [
+                    {
+                      "name": "adobe premiere pro",
+                      "url": "https://developer.android.com/studio",
+                      "image": "https://i.imgur.com/PwXLkjI.png"
+                    },
+                    {
+                      "name": "Google Trends",
+                      "url": "https://trends.google.com/trends/",
+                      "image": "https://i.imgur.com/fpydaci.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "WARC - Marketing Effectiveness",
+                      "url": "https://www.warc.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Hootsuite Academy",
+                      "url": "https://education.hootsuite.com/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Creative Media Enterprise",
+                  "information": "This module requires you to extend your knowledge of your creative media specialisms by taking your interests out into the “real” world via negotiated project work.",
+                  "tools": [
+                    {
+                      "name": "Slack",
+                      "url": "https://slack.com/",
+                      "image": "https://i.imgur.com/yMLVoYp.png"
+                    },
+                    {
+                      "name": "Monday",
+                      "url": "https://monday.com/lp/comp/asana?cq_src=google_ads&cq_cmp=9517576695&cq_term=asana&cq_plac=&cq_net=g&cq_plt=gp&utm_medium=cpc&utm_source=adwordssearch&utm_campaign=row-en-prm-workos-work_mgmt-comp_asana-h-search-desktop-core-aw&utm_keyword=asana&utm_match_type=e&cluster=&subcluster=&ati=asana&utm_adgroup=asana&utm_banner=650207569890&gad_source=1&gbraid=0AAAAADeiQJs8_x_ibok_giDbOBjLtjPrD&gclid=Cj0KCQjwlMfABhCWARIsADGXdy9eyGscu4XDODXZHN30kdCTBZLGyuGKFNRQxCfU-lJqK4DygPZawzsaAgrfEALw_wcB",
+                      "image": "https://i.imgur.com/UHLdSVO.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Business Model Canvas",
+                      "url": "https://www.strategyzer.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "IDEO Design Kit",
+                      "url": "https://www.designkit.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Professional Practice",
+                  "information": "This module examines the media and creative industries in terms of working practices; funding and entrepreneurial business opportunities; national and regional industry contexts and generating and developing ideas.",
+                  "tools": [
+                    {
+                      "name": "LinkedIn",
+                      "url": "https://www.linkedin.com/feed/",
+                      "image": "https://i.imgur.com/ZESKryp.png"
+                    },
+                    {
+                      "name": "Adobe Portfolio",
+                      "url": "https://portfolio.adobe.com/",
+                      "image": "https://i.imgur.com/vDKEjVI.png"
+                    },
+                    {
+                      "name": "Loom",
+                      "url": "https://www.loom.com/",
+                      "image": "https://i.imgur.com/zdGx1BP.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Creative Lives in Progress",
+                      "url": "https://creativelivesinprogress.com/t",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Screen skills",
+                      "url": "https://www.screenskills.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Digital Innovation and Enterprise",
+                  "information": "This module will focus on professional digital media innovation practice and aims to connect with best practice approaches used today within the digital production industry.",
+                  "tools": [
+                    {
+                      "name": "Webflow",
+                      "url": "https://webflow.com/",
+                      "image": "https://i.imgur.com/Fo70Nee.png"
+                    },
+                    {
+                      "name": "Miro",
+                      "url": "https://miro.com/",
+                      "image": "https://i.imgur.com/h9fvVij.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Harvard Innovation Labs",
+                      "url": "https://innovationlabs.harvard.edu/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Marketing Week – Digital Strategy",
+                      "url": "https://www.marketingweek.com/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Personal Project",
+                  "information": "This module can take a variety of forms – from experimental practice within a creative specialism through to work created as part of an experiential learning experience or arising from a live brief.",
+                  "tools": [
+                    {
+                      "name": "Google Workplace",
+                      "url": "https://workspace.google.com/",
+                      "image": "https://i.imgur.com/930FfTO.png"
+                    },
+                    {
+                      "name": "Trello",
+                      "url": "https://trello.com/?campaign=18422680946&adgroup=142052239375&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=666240335175&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gbraid=0AAAAADMO9YilphpLqb_aeQz11M0qu8uWN&gclid=Cj0KCQjwlMfABhCWARIsADGXdy_GMyYdURbhkoHySoNIZ6oX-w1QF5In-V1GiXkzkkj3gW7ff9Us1csaAigyEALw_wcB",
+                      "image": "https://i.imgur.com/aADYIQg.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "FutureLearn – Creative Projects",
+                      "url": "https://www.futurelearn.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Skillshare",
+                      "url": "https://www.skillshare.com/en/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Psychology",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Introduction to Psychology ",
+                  "information": "This module will develop the student’s digital photography skills, as they devise a creative photography concept and deliver an individual creative portfolio. Using accessible technology, including mobile phones, students will gain an awareness of the principles of creative photography, such as focus, colour, composition, angle, exposure and shutter.",
+                  "tools": [
+                    {
+                      "name": "Simply psychology",
+                      "url": "https://www.simplypsychology.org/",
+                      "image": "https://i.imgur.com/E9MZGwM.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Verywell Mind",
+                      "url": "https://www.verywellmind.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Coursera: Introduction to Psychology by Yale",
+                      "url": "https://www.coursera.org/learn/introduction-psychology",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Research Methods in Psychology",
+                  "information": "The module will introduce students to basic use of lighting, camera, audio and editing technique and practice. The module will more broadly cover the process and workflow of media production.",
+                  "tools": [
+                    {
+                      "name": "SPSS",
+                      "url": "https://www.ibm.com/products/spss-statistics",
+                      "image": "https://i.imgur.com/QANLYfv.png"
+                    },
+                    {
+                      "name": "JASP",
+                      "url": "https://jasp-stats.org/",
+                      "image": "https://i.imgur.com/L0xjydQ.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Con jointly",
+                      "url": "https://conjointly.com/kb/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Research Methods Knowledge Base",
+                      "url": "https://methods.sagepub.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": " Individual Differences: Personality and Intelligence",
+                  "information": "The module aims to expose students to creative approaches to management and a managed approach to creativity, which can be transferred and developed to different scenarios across Levels 5 and 6.",
+                  "tools": [
+                    {
+                      "name": "Truity",
+                      "url": "https://www.truity.com/",
+                      "image": "https://i.imgur.com/yt1OCe6.jpeg"
+                    },
+                    {
+                      "name": "Psy tool kit",
+                      "url": "https://www.psytoolkit.org/",
+                      "image": "https://i.imgur.com/4x6WLcA.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "OpenPsychometrics",
+                      "url": "https://openpsychometrics.org/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Psychological Science for Student Success",
+                  "information": "This module will help you enhance your creative skills to become a critically aware and resilient content creator. You will develop skills that allow you to create content for a range of audiences and contexts.",
+                  "tools": [
+                    {
+                      "name": "Zotero",
+                      "url": "https://www.zotero.org/",
+                      "image": "https://i.imgur.com/T2YxGMu.png"
+                    },
+                    {
+                      "name": "Notion",
+                      "url": "https://www.notion.com/",
+                      "image": "https://i.imgur.com/aznSjnS.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "APA Student Hub",
+                      "url": "https://www.apa.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Debates in Psychological and Critical Thinking",
+                  "information": "Digital Practice introduces the production of a variety of digital media (text, still and moving image, audio). It examines the use of digital media, and its platforms (TV, web, mobile, console) in a variety of cultural and social contexts in an attempt to form an understanding of how we consume, and rely on, digital media today.",
+                  "tools": [
+                    {
+                      "name": "Perusall",
+                      "url": "https://www.perusall.com/",
+                      "image": "https://i.imgur.com/jU7gZWn.jpeg"
+                    },
+                    {
+                      "name": "Miro",
+                      "url": "https://miro.com/",
+                      "image": "https://i.imgur.com/h9fvVij.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Critical Thinking on OpenLearn",
+                      "url": "https://www.open.edu/openlearn/critical-thinking/content-section-0",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Stanford Encyclopedia of Philosophy",
+                      "url": "https://plato.stanford.edu/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Short Film Documentary",
+                  "information": "The module builds on FTV4004-20 and further develops your skills in the use of lighting, camera, audio and editing techniques.  However, the emphasis in this module is on documentary storytelling (in contrast to FTV4004-20’s focus on fiction).",
+                  "tools": [
+                    {
+                      "name": "Hypothes",
+                      "url": "https://web.hypothes.is/",
+                      "image": "https://i.imgur.com/o4lEklu.png"
+                    },
+                    {
+                      "name": "Padlet",
+                      "url": "https://padlet.com/",
+                      "image": "https://i.imgur.com/PgYMN1C.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "BBC Ideas",
+                      "url": "https://www.bbc.com/topics/cxw2g82zr01t",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Philosophy Now",
+                      "url": "https://philosophynow.org/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": " Research Methods in Psychology 2",
+                  "information": "Everyday Media Making explores the premise that media making can: empower people through connecting expose, challenge and critique dominant cultures provoke different ways of thinking/seeing embody participatory practices",
+                  "tools": [
+                    {
+                      "name": "Rstudio",
+                      "url": "https://posit.co/download/rstudio-desktop/",
+                      "image": "https://i.imgur.com/HBp61rb.png"
+                    },
+                    {
+                      "name": "qualtrics",
+                      "url": "https://www.qualtrics.com/",
+                      "image": "https://i.imgur.com/A6jFxro.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Laerd Statistics",
+                      "url": "https://statistics.laerd.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "PsychOpen",
+                      "url": "https://psychopen.eu/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cognitive and Developmental Psychology",
+                  "information": "This module builds on the programme’s emphasis on helping students to become critically engaged, and socially conscious, multi-platform digital content creators.",
+                  "tools": [
+                    {
+                      "name": "Coglab",
+                      "url": "https://coglab.cengage.com/",
+                      "image": "https://i.imgur.com/I0m3aE4.png"
+                    },
+                    {
+                      "name": "Mindomo",
+                      "url": "https://www.mindomo.com/",
+                      "image": "https://i.imgur.com/T64j8nt.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Zero to Three",
+                      "url": "https://www.zerotothree.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Biological and Social Psychology",
+                  "information": "This module explores the theory and practices of participatory arts and media, focussing on the latter. Henry Jenkins (2016) a key writer on participatory cultures notes that at a time of eroded public trust in core institutions and mainstream media increasingly concentrated into the hands of a few conglomerates, ‘grass roots media’ is ‘being deployed as the tool by which to challenge the failed mechanisms of institutional politics’.",
+                  "tools": [
+                    {
+                      "name": "Biodigital",
+                      "url": "https://www.biodigital.com/",
+                      "image": "https://i.imgur.com/I8OR9mQ.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Neuroscience News",
+                      "url": "https://neurosciencenews.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Social Psychology Network",
+                      "url": "https://www.socialpsychology.org/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Psychology and Social Justice",
+                  "information": "The aim of this module is to provide an introduction to digital effects and animation processes and techniques, to ensure you are well equipped to begin to contribute to a professional film, television and digital production environment.",
+                  "tools": [
+                    {
+                      "name": "Storymap",
+                      "url": "https://storymap.knightlab.com/",
+                      "image": "https://i.imgur.com/SLobo8d.png"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "APA Equity Resources",
+                      "url": "https://www.apa.org/topics/equity-diversity-inclusion",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": " Clinical Psychology",
+                  "information": "This module aims to give students an understanding of commissioning in the media and securing freelance employment. ",
+                  "tools": [
+                    {
+                      "name": "DASS21",
+                      "url": "https://maic.qld.gov.au/wp-content/uploads/2016/07/DASS-21.pdf",
+                      "image": "https://i.imgur.com/TJa3mI0.jpeg"
+                    },
+                    {
+                      "name": "Psy tool kit",
+                      "url": "https://www.psytoolkit.org/",
+                      "image": "https://i.imgur.com/4x6WLcA.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "NHS Mental Health Resources",
+                      "url": "https://www.nhs.uk/mental-health/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Book: “Clinical Psychology” by Graham Davey",
+                      "url": "https://www.routledge.com/Clinical-Psychology/Davey-Lake-Whittington/p/book/9780367181017?srsltid=AfmBOoqmpPu8AlwqF6xvYrbsbKElz3eZN5mLjAKio1Rjr8k0Z0yC6TS9",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Criminal and Forensic Psychology",
+                  "information": "Examining the role of promotional media materials such as trailers, idents, social media, movie reviewers, ARGs, branded leisure attractions, PR, and the type of online user-generated content circulating between and beyond the main media products of creative industries, this module investigates the role of such promotional media on informing audience behaviours and fandoms amongst contemporary audiences.",
+                  "tools": [
+                    {
+                      "name": "Crime Map by Police UK",
+                      "url": "https://www.police.uk/pu/your-area/metropolitan-police-service/junction/?tab=CrimeMap",
+                      "image": "https://i.imgur.com/qaYjOyw.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "The open university",
+                      "url": "https://www.open.edu/openlearn/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Design and Pre-registration",
+                  "information": "This module requires you to extend your knowledge of your creative media specialisms by taking your interests out into the “real” world via negotiated project work.",
+                  "tools": [
+                    {
+                      "name": "OSF (Open Science Framework for pre-registration)",
+                      "url": "https://osf.io/",
+                      "image": "https://i.imgur.com/SLG0JWH.png"
+                    },
+                    {
+                      "name": "Google Scholar Alerts",
+                      "url": "https://scholar.google.com/scholar_alerts?view_op=list_alerts&hl=en",
+                      "image": "https://i.imgur.com/M7NTYh3.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Center for Open Science",
+                      "url": "https://www.cos.io/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "UWE Dissertation Toolkit",
+                      "url": "https://www.uwe.ac.uk/study/study-support/study-skills/academic-writing/dissertations",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Contemporary Applications of Psychological Science",
+                  "information": "This module examines the media and creative industries in terms of working practices; funding and entrepreneurial business opportunities; national and regional industry contexts and generating and developing ideas.",
+                  "tools": [
+                    {
+                      "name": "Tableau",
+                      "url": "https://www.tableau.com/",
+                      "image": "https://i.imgur.com/rdOpzrT.png"
+                    },
+                    {
+                      "name": "Padlet",
+                      "url": "https://padlet.com/",
+                      "image": "https://i.imgur.com/PgYMN1C.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Nature: Psychology Collection",
+                      "url": "https://www.nature.com/subjects/psychology",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Psychological Science Journal",
+                      "url": "https://journals.sagepub.com/home/pss",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Careers in Psychology",
+                  "information": "This module will focus on professional digital media innovation practice and aims to connect with best practice approaches used today within the digital production industry.",
+                  "tools": [
+                    {
+                      "name": "Prospects",
+                      "url": "https://www.prospects.ac.uk/",
+                      "image": "https://i.imgur.com/2jJsLSQ.jpeg"
+                    },
+                    {
+                      "name": "LinkedIn",
+                      "url": "https://www.linkedin.com/feed/",
+                      "image": "https://imgur.com/6f5cdba3-100c-4b4e-b899-06cb2f2f8f92"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "BPS Career Resources",
+                      "url": "https://www.bps.org.uk/career-options-in-psychology",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Psychology Careers Guide - APA",
+                      "url": "https://www.apa.org/education-career/guide",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Research Report",
+                  "information": "This module can take a variety of forms – from experimental practice within a creative specialism through to work created as part of an experiential learning experience or arising from a live brief.",
+                  "tools": [
+                    {
+                      "name": "Zotero",
+                      "url": "https://www.zotero.org/",
+                      "image": "https://i.imgur.com/T2YxGMu.png"
+                    },
+                    {
+                      "name": "SPSS",
+                      "url": "https://www.ibm.com/products/spss-statistics",
+                      "image": "https://i.imgur.com/QANLYfv.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Purdue OWL APA Resources",
+                      "url": "https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "APA Style Guide",
+                      "url": "https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Work Interventions: Health and Wellbeing",
+                  "information": "This module can take a variety of forms – from experimental practice within a creative specialism through to work created as part of an experiential learning experience or arising from a live brief.",
+                  "tools": [
+                    {
+                      "name": "Wellbeing Assessment Tools",
+                      "url": "https://workspace.google.com/",
+                      "image": "https://i.imgur.com/hJtAcWm.png"
+                    },
+                    {
+                      "name": "Trello",
+                      "url": "https://trello.com/?campaign=18422680946&adgroup=142052239375&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=666240335175&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gbraid=0AAAAADMO9YilphpLqb_aeQz11M0qu8uWN&gclid=Cj0KCQjwlMfABhCWARIsADGXdy_GMyYdURbhkoHySoNIZ6oX-w1QF5In-V1GiXkzkkj3gW7ff9Us1csaAigyEALw_wcB",
+                      "image": "https://i.imgur.com/aADYIQg.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Mind.org.uk - Workplace Wellbeing",
+                      "url": "https://www.mind.org.uk/workplace/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "HSE UK Stress Management",
+                      "url": "https://www.hse.gov.uk/stress/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Advanced Topics in Psychology",
+                  "information": "This module can take a variety of forms – from experimental practice within a creative specialism through to work created as part of an experiential learning experience or arising from a live brief.",
+                  "tools": [
+                    {
+                      "name": "Notion",
+                      "url": "https://www.notion.com/",
+                      "image": "https://i.imgur.com/aznSjnS.png"
+                    },
+                    {
+                      "name": "Zotero",
+                      "url": "https://www.zotero.org/",
+                      "image": "https://i.imgur.com/T2YxGMu.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "APA PsycArticles",
+                      "url": "https://www.apa.org/pubs/databases/psycarticles",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Frontiers in Psychology",
+                      "url": "https://www.frontiersin.org/journals/psychology",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business and Management (HRM/MRT)",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "The Business Environment",
+                  "information": "Explore how businesses operate in different environments (economic, legal, political, and global), and the external forces that impact them.",
+                  "tools": [
+                    {
+                      "name": "SWOT Analysis tools",
+                      "url": "https://creately.com/lp/swot-analysis-tool-online/",
+                      "image": "https://i.imgur.com/bjMBL7s.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Investopedia – Business Environment",
+                      "url": "https://www.investopedia.com/terms/b/business.asp",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "PESTLE Analysis Guide",
+                      "url": "https://pestleanalysis.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Managing Data",
+                  "information": "Learn how to gather, analyze, and present data to support decision-making in business.",
+                  "tools": [
+                    {
+                      "name": "Microsoft Excel",
+                      "url": "https://www.microsoft.com/en-us/microsoft-365/excel",
+                      "image": "https://i.imgur.com/KtwzXnJ.png"
+                    },
+                    {
+                      "name": "Tableau",
+                      "url": "https://www.tableau.com/",
+                      "image": "https://i.imgur.com/rdOpzrT.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Excel for Business – Microsoft",
+                      "url": "https://support.microsoft.com/en-us/excel",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Khan Academy – Data Analysis",
+                      "url": "https://www.khanacademy.org/math/statistics-probability",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Professional Practice",
+                  "information": "Develop essential skills such as communication, teamwork, time management, and professional ethics.",
+                  "tools": [
+                    {
+                      "name": "Trello",
+                      "url": "https://trello.com/?campaign=18422680946&adgroup=142052239375&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=666240335175&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gbraid=0AAAAADMO9YilphpLqb_aeQz11M0qu8uWN&gclid=Cj0KCQjwlMfABhCWARIsADGXdy_GMyYdURbhkoHySoNIZ6oX-w1QF5In-V1GiXkzkkj3gW7ff9Us1csaAigyEALw_wcB",
+                      "image": "https://i.imgur.com/aADYIQg.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "LinkedIn Learning",
+                      "url": "https://www.linkedin.com/learning/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Grammarly – Writing Assistant",
+                      "url": "https://www.grammarly.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Trello – Organize Work",
+                      "url": "https://trello.com/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": " Organizational Behavior & Management",
+                  "information": "Study how people behave in organizations, including motivation, leadership, and team dynamics.",
+                  "tools": [
+                    {
+                      "name": "Slack",
+                      "url": "https://slack.com/",
+                      "image": "https://i.imgur.com/yMLVoYp.png"
+                    },
+                    {
+                      "name": "Miro",
+                      "url": "https://miro.com/",
+                      "image": "https://i.imgur.com/h9fvVij.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "MindTools – Management Skills",
+                      "url": "https://www.mindtools.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Harvard Business Review – Organizational Behavior",
+                      "url": "https://hbr.org/topic/organizational-behavior",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Economics & Globalization",
+                  "information": "Understand key economic theories and the impact of globalization on business strategies.",
+                  "tools": [
+                    {
+                      "name": "SPSS",
+                      "url": "https://www.ibm.com/products/spss-statistics",
+                      "image": "https://i.imgur.com/QANLYfv.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Khan Academy – Economics",
+                      "url": "https://www.khanacademy.org/economics-finance-domain",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "World Economic Forum",
+                      "url": "https://www.weforum.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Design Thinking for Enterprise",
+                  "information": "Learn how to use design thinking to solve problems creatively in a business context",
+                  "tools": [
+                    {
+                      "name": "Figma",
+                      "url": "https://www.figma.com/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    },
+                    {
+                      "name": "Miro",
+                      "url": "https://miro.com/",
+                      "image": "https://i.imgur.com/h9fvVij.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "IDEO Design Thinking Toolkit",
+                      "url": "https://www.ideo.com/journal/design-kit-the-human-centered-design-toolkit",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Interaction Design Foundation – Design Thinking",
+                      "url": "https://www.interaction-design.org/literature/topics/design-thinking?srsltid=AfmBOooyiSFbCNLmR8MSHf72yxm9nfpPnixx3a-9zcEjaNYbXqzyXRJw",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": " Marketing",
+                  "information": "Understand core marketing concepts like segmentation, targeting, positioning, and branding",
+                  "tools": [
+                    {
+                      "name": "hubspot",
+                      "url": "https://www.hubspot.com/",
+                      "image": "https://i.imgur.com/3Tha7pG.png"
+                    },
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "HubSpot Marketing Blog",
+                      "url": "https://blog.hubspot.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Canva – Design Marketing Material",
+                      "url": "https://www.canva.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "The Marketing Business / Marketing in Practice",
+                  "information": "Apply marketing strategies in real business scenarios, including digital marketing and campaigns.",
+                  "tools": [
+                    {
+                      "name": "SEMrush",
+                      "url": "https://www.semrush.com/lp/product-free-trial/en/?g_acctid=709-805-5925&g_adgroupid=184219805228&g_adid=735489992800&g_adtype=search&g_campaign=ROW_SRCH_Brand_Semrush_EN&g_campaignid=14296670301&g_keyword=semrush&g_keywordid=kwd-12220602509&g_network=g&kw=semrush&cmp=ROW_SRCH_Brand_Semrush_EN&label=brand_semrush&Network=g&Device=c&utm_content=735489992800&kwid=kwd-12220602509&cmpid=14296670301&agpid=184219805228&BU=Brand_Semrush&extid=&adpos=&gad_source=1&gbraid=0AAAAADiv3HSvCs3pMatA1TBKrYcVErDyj&gclid=Cj0KCQjwlMfABhCWARIsADGXdy8070Rt0YEhQ1ES1f5LMDclL5OWnjMZZk9cpJUxodjkrZXF6wbBR3saAkQGEALw_wcB",
+                      "image": "https://i.imgur.com/0sTq5ug.png"
+                    },
+                    {
+                      "name": "MinMailchimpdomo",
+                      "url": "https://mailchimp.com/landers/email-marketing-platform/?ds_c=DEPT_AOC_Google_Search_ROW_EN_Brand_Acquire_Omega_Manual-NE_T3&ds_kids=p81005570474&ds_a_lid=kwd-2285511033&ds_cid=71700000120288589&ds_agid=58700008803527157&gad_source=1&gbraid=0AAAAADh1Fp2sYy_SxhtSYBnHD0zoT3SEW&gclid=Cj0KCQjwlMfABhCWARIsADGXdy8R_ySvrUbK95Js6hOKj8MdyRRPHQWqEgjrjkTcxW-ahyD2q6kiyygaAmsyEALw_wcB&gclsrc=aw.ds",
+                      "image": "https://i.imgur.com/mq02HQ2.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "ZSEMrush Academy",
+                      "url": "https://www.zerotothree.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Creativity for Business",
+                  "information": "Explore how creativity drives innovation and competitive advantage in business.",
+                  "tools": [
+                    {
+                      "name": "MindMeister",
+                      "url": "https://www.mindmeister.com/",
+                      "image": "https://i.imgur.com/OJkQFb4.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Harvard Business Review – Innovation",
+                      "url": "https://hbr.org/topic/innovation",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Notion – Creative Workspace",
+                      "url": "https://www.notion.so/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Operations and Project Management",
+                  "information": "Learn how to manage business processes, logistics, and projects efficiently.",
+                  "tools": [
+                    {
+                      "name": "ganttproject",
+                      "url": "https://www.ganttproject.biz/",
+                      "image": "https://i.imgur.com/OMSfTp1.png"
+                    },
+                    {
+                      "name": "Asana",
+                      "url": "https://asana.com/",
+                      "image": "https://i.imgur.com/DZDmSWy.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "APMI – Project Management Institute",
+                      "url": "https://www.pmi.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Human Resource Management / in Practice",
+                  "information": "Study the principles and application of HRM, including recruitment, performance, and legal aspects.",
+                  "tools": [
+                    {
+                      "name": "BambooHR",
+                      "url": "https://www.bamboohr.com/",
+                      "image": "https://i.imgur.com/w9nTEjB.png"
+                    },
+                    {
+                      "name": "LinkedIn",
+                      "url": "https://www.linkedin.com/",
+                      "image": "https://i.imgur.com/ZESKryp.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "CIPD – HR Professional Body",
+                      "url": "https://www.cipd.org/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "SHRM – HR Resources",
+                      "url": "https://www.shrm.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovation Management",
+                  "information": "Learn how companies foster innovation and manage it strategically",
+                  "tools": [
+                    {
+                      "name": "MindManager",
+                      "url": "https://www.mindmanager.com/en/?srsltid=AfmBOorZBxWx1YLWcG_addtnkHHXAhnRJvuV9hIl_jomCAQ28ZwbOswg",
+                      "image": "https://i.imgur.com/b260gUh.png"
+                    },
+                    {
+                      "name": "Trello",
+                      "url": "https://trello.com/?campaign=18422680946&adgroup=142052239375&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=666240335175&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gbraid=0AAAAADMO9YilphpLqb_aeQz11M0qu8uWN&gclid=Cj0KCQjwlMfABhCWARIsADGXdy_GMyYdURbhkoHySoNIZ6oX-w1QF5In-V1GiXkzkkj3gW7ff9Us1csaAigyEALw_wcB",
+                      "image": "https://i.imgur.com/aADYIQg.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Innovation Management Hub",
+                      "url": "https://innovationmanagement.se/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Strategyzer – Business Model Innovation",
+                      "url": "https://www.strategyzer.com/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Organisational Strategy",
+                  "information": "Explore strategic analysis, planning, and implementation within organizations.",
+                  "tools": [
+                    {
+                      "name": "Lucidchart",
+                      "url": "https://www.lucidchart.com/pages",
+                      "image": "https://i.imgur.com/TTpU9CG.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "McKinsey Insights",
+                      "url": "https://www.mckinsey.com/featured-insights",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "BCG Henderson Institute",
+                      "url": "https://www.bcg.com/bcg-henderson-institute",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Enterprise: Creating Your Own Business",
+                  "information": "Take your business idea from concept to execution with support from mentors.",
+                  "tools": [
+                    {
+                      "name": "Stripe",
+                      "url": "https://stripe.com/ae?utm_campaign=EMEA_AE_en_Google_Search_Brand_Stripe_EXA-20645330145&utm_medium=cpc&utm_source=google&ad_content=676937872450&utm_term=stripe&utm_matchtype=e&utm_adposition=&utm_device=c&gad_source=1&gbraid=0AAAAADKNRO7bKlz9_r90ZcKJxf8Hv_3gs&gclid=Cj0KCQjwt8zABhDKARIsAHXuD7ZjY5_34aenmpPmZvkJTeiBLgNGrdmI5pmV6BqqRBvTmiL_HTKKReQaAks4EALw_wcB",
+                      "image": "https://i.imgur.com/mdKomw5.png"
+                    },
+                    {
+                      "name": "Lean Canvas",
+                      "url": "https://canvanizer.com/new/lean-canvas",
+                      "image": "https://i.imgur.com/3dJOzR1.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "StartUp Donut UK",
+                      "url": "https://www.startupdonut.co.uk/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "International Marketing",
+                  "information": "Understand global marketing strategies, cultural factors, and international branding.",
+                  "tools": [
+                    {
+                      "name": "Google Trends",
+                      "url": "https://trends.google.com/trends/",
+                      "image": "https://i.imgur.com/fpydaci.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Statista – Global Marketing Data",
+                      "url": "https://www.statista.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Harvard Business Review – Global Strategy",
+                      "url": "https://hbr.org/topic/global-strategy",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Strategic Human Resource Management",
+                  "information": "Align HR strategies with long-term business goals and evaluate performance.",
+                  "tools": [
+                    {
+                      "name": "Workday",
+                      "url": "https://www.greenhouse.com/demo?utm_source=adwords&utm_medium=paid-search&gad_source=1&gbraid=0AAAAADk_ksQL50zA9MOoFuGxvAyOxf1xC&gclid=Cj0KCQjwt8zABhDKARIsAHXuD7YZRxVl-nRKrTd7buyxcxblpTaxSWdlyQYRyfub0p295jGE16eg1K4aAhGsEALw_wcB",
+                      "image": "https://i.imgur.com/Xbg2TFi.png"
+                    },
+                    {
+                      "name": "BambooHR",
+                      "url": "https://www.bamboohr.com/",
+                      "image": "https://i.imgur.com/w9nTEjB.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "HRZone – Strategic HR",
+                      "url": "https://www.hrzone.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Academy to Innovate HR (AIHR)",
+                      "url": "https://www.aihr.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": " Marketing Research Project / Human Resource Management Research Project",
+                  "information": "Conduct an independent research project in your chosen specialism (marketing or HRM).",
+                  "tools": [
+                    {
+                      "name": "NVivo",
+                      "url": "https://lumivero.com/product/nvivo/",
+                      "image": "https://i.imgur.com/mqREfll.png"
+                    },
+                    {
+                      "name": "SPSS",
+                      "url": "https://www.ibm.com/products/spss-statistics",
+                      "image": "https://i.imgur.com/QANLYfv.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Google Scholar",
+                      "url": "https://scholar.google.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "SAGE Research Methods",
+                      "url": "https://methods.sagepub.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Managing Sustainability",
+                  "information": "Understand sustainable business practices and how to integrate them strategically.",
+                  "tools": [
+                    {
+                      "name": "GRI Standards",
+                      "url": "https://www.globalreporting.org/standards/",
+                      "image": "https://i.imgur.com/xO9HvV4.png"
+                    },
+                    {
+                      "name": "Ecochain",
+                      "url": "https://ecochain.com/",
+                      "image": "https://i.imgur.com/SOXbmHs.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "UN Sustainable Development Goals",
+                      "url": "https://sdgs.un.org/goals",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "SustainAbility",
+                      "url": "https://www.sustainability.com/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Business and Management (Accounting)",
+      "years": [
+        {
+          "year": 1,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Business Environment",
+                  "information": "Explore external and internal factors affecting how businesses operate, including political, economic, social, technological, legal, and environmental influences.",
+                  "tools": [
+                    {
+                      "name": "SWOT Analysis tools",
+                      "url": "https://creately.com/lp/swot-analysis-tool-online/",
+                      "image": "https://i.imgur.com/bjMBL7s.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Investopedia – Business Environment",
+                      "url": "https://www.investopedia.com/terms/b/business.asp",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "PESTLE Analysis Guide",
+                      "url": "https://pestleanalysis.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Managing Data",
+                  "information": "Learn how to gather, analyze, and present data to support decision-making in business.",
+                  "tools": [
+                    {
+                      "name": "Microsoft Excel",
+                      "url": "https://www.microsoft.com/en-us/microsoft-365/excel",
+                      "image": "https://i.imgur.com/KtwzXnJ.png"
+                    },
+                    {
+                      "name": "Tableau",
+                      "url": "https://www.tableau.com/",
+                      "image": "https://i.imgur.com/rdOpzrT.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Excel for Business – Microsoft",
+                      "url": "https://support.microsoft.com/en-us/excel",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Khan Academy – Data Analysis",
+                      "url": "https://www.khanacademy.org/math/statistics-probability",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": " Financial Accounting for Business Enterprise",
+                  "information": " Introduction to financial accounting principles, preparation of financial statements, and understanding double-entry bookkeeping.",
+                  "tools": [
+                    {
+                      "name": "Sage Accounting",
+                      "url": "https://www.sage.com/en-ae/accounting-software/",
+                      "image": "https://i.imgur.com/xGTTuvU.png"
+                    },
+                    {
+                      "name": "Xero",
+                      "url": "https://www.xero.com/",
+                      "image": "https://i.imgur.com/N8rB8UK.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "AccountingCoach",
+                      "url": "https://www.accountingcoach.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Investopedia: Financial Accounting",
+                      "url": "https://www.investopedia.com/terms/f/financialaccounting.asp",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Organisational Behaviour and Management",
+                  "information": ":Examines how people behave within organizations and the impact of management practices.",
+                  "tools": [
+                    {
+                      "name": "Microsoft Teams",
+                      "url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+                      "image": "https://i.imgur.com/R8fLLV6.jpeg"
+                    },
+                    {
+                      "name": "Myers-Briggs Type Indicator (MBTI",
+                      "url": "https://www.themyersbriggs.com/en-US/Products-and-Services/Myers-Briggs#:~:text=The%20Myers%2DBriggs%20Type%20Indicator,their%20personal%20and%20professional%20effectiveness.",
+                      "image": "https://i.imgur.com/VC7siou.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "MindTools – Management Skills",
+                      "url": "https://www.mindtools.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Coursera – Organizational Behavior",
+                      "url": "https://www.coursera.org/learn/organizational-behavior",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Economics and Globalisation",
+                  "information": "Introduces basic economic principles and the impact of globalization on business.",
+                  "tools": [
+                    {
+                      "name": "Trading Economics",
+                      "url": "https://tradingeconomics.com/",
+                      "image": "https://i.imgur.com/dp9btsp.png"
+                    },
+                    {
+                      "name": "Statista",
+                      "url": "https://www.lexisnexis.com/en-us/gateway.page",
+                      "image": "https://i.imgur.com/IdO7Adw.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Economics Help",
+                      "url": "https://www.economicshelp.org/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "World Economic Forum",
+                      "url": "https://www.weforum.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Cost and Management Accounting",
+                  "information": "Focuses on budgeting, costing techniques, and internal reporting for decision-making.",
+                  "tools": [
+                    {
+                      "name": "QuickBooks",
+                      "url": "https://quickbooks.intuit.com/",
+                      "image": "https://i.imgur.com/Af233e4.png"
+                    },
+                    {
+                      "name": "Microsoft Excel",
+                      "url": "https://www.microsoft.com/en-us/microsoft-365/excel",
+                      "image": "https://i.imgur.com/KtwzXnJ.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "CIMA Study Resources",
+                      "url": "https://cimastudy.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "OpenLearn: Management Accounting",
+                      "url": "https://www.open.ac.uk/?ps_kw=open%20university%20online%20degrees&cid=&gad_source=1&gbraid=0AAAAADtVJY7psKmj_UeaRMIPxH1SlO_Fv&gclid=Cj0KCQjw2tHABhCiARIsANZzDWrVvp-7mVCmMpS4vhipr4_liYL_ST4Z1GxZx3cnf00w_fI9oZ-3WgYaAkX-EALw_wcB&gclsrc=aw.ds",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Creativity for Business",
+                  "information": "Develop creative thinking and innovation in business contexts to generate new ideas and solve problems.",
+                  "tools": [
+                    {
+                      "name": "Canva",
+                      "url": "https://www.canva.com/",
+                      "image": "https://i.imgur.com/u6gk0vP.jpeg"
+                    },
+                    {
+                      "name": "Miro",
+                      "url": "https://miro.com/",
+                      "image": "https://i.imgur.com/h9fvVij.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "IDEO Design Thinking Toolkit",
+                      "url": "https://www.ideo.com/journal/design-kit-the-human-centered-design-toolkit",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Creativity at Work",
+                      "url": "https://www.creativityatwork.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": " Business Law",
+                  "information": "Understand the legal frameworks that affect businesses, including contracts, company law, employment law, and regulatory compliance.",
+                  "tools": [
+                    {
+                      "name": "Westlaw UK",
+                      "url": "https://signon.thomsonreuters.com/?productid=PLCUK&viewproductid=UKWL&lr=0&culture=en-GB&returnto=https%3a%2f%2fuk.westlaw.com%2fCosi%2fSignOn&tracetoken=0502250922220TRlQPGnnDzMn71ZfDzNnK_v4ndokdseSfT1DC3cwMmaDjfIi0n0qgGFm_xCcJ9Gs3bwPn8WLOPCe1CGJIHXBHheWlrJtjBxmzJjCGhgGGq7eH3Zc_UlA3Ky7hxOEejb_0h2zZAJlVUw9deuKZVUptMWWgSfFzxUcZ4svkwDSiT76fp-WyXt4x7Nh0GMotMGtr-IlS_U_6hTshrPNofF0Iy4BkCy7pnxxuaz5BwykWEk-YMRM3h2VizU4_JNU19YVeZwuK8F4SgzkmbAdD2sb6tchh4V8UnMKxNnipJlr08Jwf1xhg1skaLz8xE8zstowHnyuf6bTE7hEkEUPHlAFpCNRdZzl-YjZ9U85Bklij8qf4GRxGB3ZSXlaII3NMbGp",
+                      "image": "https://i.imgur.com/SOCOQA7.jpeg"
+                    },
+                    {
+                      "name": "LexisNexis",
+                      "url": "https://www.lexisnexis.com/en-us/gateway.page",
+                      "image": "https://i.imgur.com/IdO7Adw.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "LawTeacher",
+                      "url": "https://www.lawteacher.net/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Legislation.gov.uk",
+                      "url": "https://www.legislation.gov.uk/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "UK Taxation",
+                  "information": "Introduces personal and business taxation in the UK, including income tax, VAT, and corporate tax.",
+                  "tools": [
+                    {
+                      "name": "TaxFiler",
+                      "url": "https://taxfiler.co.uk/",
+                      "image": "https://i.imgur.com/YW1nT90.jpeg"
+                    },
+                    {
+                      "name": "Microsoft Excel",
+                      "url": "https://www.microsoft.com/en-us/microsoft-365/excel",
+                      "image": "https://i.imgur.com/KtwzXnJ.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "HMRC: UK Tax Information",
+                      "url": "https://www.gov.uk/government/organisations/hm-revenue-customs",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Performance Management",
+                  "information": "Learn how to manage business processes, logistics, and projects efficiently.",
+                  "tools": [
+                    {
+                      "name": "ganttproject",
+                      "url": "https://www.ganttproject.biz/",
+                      "image": "https://i.imgur.com/OMSfTp1.png"
+                    },
+                    {
+                      "name": "Asana",
+                      "url": "https://asana.com/",
+                      "image": "https://i.imgur.com/DZDmSWy.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "APMI – Project Management Institute",
+                      "url": "https://www.pmi.org/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Innovation Management",
+                  "information": "Learn how companies foster innovation and manage it strategically",
+                  "tools": [
+                    {
+                      "name": "MindManager",
+                      "url": "https://www.mindmanager.com/en/?srsltid=AfmBOorZBxWx1YLWcG_addtnkHHXAhnRJvuV9hIl_jomCAQ28ZwbOswg",
+                      "image": "https://i.imgur.com/b260gUh.png"
+                    },
+                    {
+                      "name": "Trello",
+                      "url": "https://trello.com/?campaign=18422680946&adgroup=142052239375&targetid=kwd-3609071522&matchtype=e&network=g&device=c&device_model=&creative=666240335175&keyword=trello&placement=&target=&ds_eid=700000001557344&ds_e1=GOOGLE&gad_source=1&gbraid=0AAAAADMO9YilphpLqb_aeQz11M0qu8uWN&gclid=Cj0KCQjwlMfABhCWARIsADGXdy_GMyYdURbhkoHySoNIZ6oX-w1QF5In-V1GiXkzkkj3gW7ff9Us1csaAigyEALw_wcB",
+                      "image": "https://i.imgur.com/aADYIQg.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Innovation Management Hub",
+                      "url": "https://innovationmanagement.se/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Strategyzer – Business Model Innovation",
+                      "url": "https://www.strategyzer.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Human Resource Management / in Practice",
+                  "information": "Study the principles and application of HRM, including recruitment, performance, and legal aspects.",
+                  "tools": [
+                    {
+                      "name": "BambooHR",
+                      "url": "https://www.bamboohr.com/",
+                      "image": "https://i.imgur.com/w9nTEjB.png"
+                    },
+                    {
+                      "name": "LinkedIn",
+                      "url": "https://www.linkedin.com/",
+                      "image": "https://i.imgur.com/ZESKryp.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "CIPD – HR Professional Body",
+                      "url": "https://www.cipd.org/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "SHRM – HR Resources",
+                      "url": "https://www.shrm.org/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "semesters": [
+            {
+              "semester": 1,
+              "modules": [
+                {
+                  "name": "Managing Sustainability",
+                  "information": "Understand sustainable business practices and how to integrate them strategically.",
+                  "tools": [
+                    {
+                      "name": "GRI Standards",
+                      "url": "https://www.globalreporting.org/standards/",
+                      "image": "https://i.imgur.com/xO9HvV4.png"
+                    },
+                    {
+                      "name": "Ecochain",
+                      "url": "https://ecochain.com/",
+                      "image": "https://i.imgur.com/SOXbmHs.jpeg"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "UN Sustainable Development Goals",
+                      "url": "https://sdgs.un.org/goals",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "SustainAbility",
+                      "url": "https://www.sustainability.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Financial Management",
+                  "information": " Focuses on financial decision-making, capital budgeting, and working capital management.",
+                  "tools": [
+                    {
+                      "name": "Microsoft Excel",
+                      "url": "https://www.microsoft.com/en-us/microsoft-365/excel",
+                      "image": "https://i.imgur.com/KtwzXnJ.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Corporate Finance Institute",
+                      "url": "https://corporatefinanceinstitute.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Investopedia – Business Environment",
+                      "url": "https://www.investopedia.com/terms/b/business.asp",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": "Financial Reporting",
+                  "information": " Examines the preparation and analysis of complex financial statements in accordance with IFRS.",
+                  "tools": [
+                    {
+                      "name": "Sage Accounting",
+                      "url": "https://www.sage.com/en-ae/accounting-software/",
+                      "image": "https://i.imgur.com/xGTTuvU.png"
+                    },
+                    {
+                      "name": "QuickBooks",
+                      "url": "https://quickbooks.intuit.com/",
+                      "image": "https://i.imgur.com/Af233e4.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "IFRS Foundation",
+                      "url": "https://www.ifrs.org/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "Accounting Standards by ACCA",
+                      "url": "https://www.accaglobal.com/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "semester": 2,
+              "modules": [
+                {
+                  "name": "Accounting Project",
+                  "information": "A capstone project involving independent research in an accounting-related topic.",
+                  "tools": [
+                    {
+                      "name": "Microsoft Excel",
+                      "url": "https://www.microsoft.com/en-us/microsoft-365/excel",
+                      "image": "https://i.imgur.com/KtwzXnJ.png"
+                    },
+                    {
+                      "name": "Zotero",
+                      "url": "https://www.zotero.org/",
+                      "image": "https://i.imgur.com/T2YxGMu.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "Google Scholar",
+                      "url": "https://scholar.google.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "SAGE Research Methods",
+                      "url": "https://methods.sagepub.com/",
+                      "type": "Website"
+                    }
+                  ]
+                },
+                {
+                  "name": " Audit and Assurance",
+                  "information": "Introduces auditing processes, ethics, risk, and assurance services.",
+                  "tools": [
+                    {
+                      "name": "CaseWare Audit",
+                      "url": "https://www.caseware.com/accounting-firm-solutions/audit-and-assurance/",
+                      "image": "https://i.imgur.com/qs717YH.png"
+                    },
+                    {
+                      "name": "Audit Command Language (ACL)",
+                      "url": "https://www.oit.va.gov/Services/TRM/ToolPage.aspx?tid=6681",
+                      "image": "https://i.imgur.com/nLQl8OX.png"
+                    }
+                  ],
+                  "resources": [
+                    {
+                      "title": "ACCA Audit and Assurance Resources",
+                      "url": "https://www.accaglobal.com/",
+                      "type": "Website"
+                    },
+                    {
+                      "title": "The Institute of Internal Auditors",
+                      "url": "hhttps://www.theiia.org/",
+                      "type": "Website"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+

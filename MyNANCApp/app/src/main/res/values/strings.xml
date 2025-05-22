@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNANCApp</string>
+    <string name="infoButton_desc">info button</string>
+</resources>

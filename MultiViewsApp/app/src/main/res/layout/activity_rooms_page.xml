@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/rooms_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/newbg_rooms"
+    android:padding="8dp">
+
+    <!-- Back Button -->
+    <ImageButton
+        android:id="@+id/backB"
+        android:layout_width="92dp"
+        android:layout_height="89dp"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="-25dp"
+        android:backgroundTint="#00FFFFFF"
+        android:src="@drawable/new_back_"
+        android:contentDescription="@string/back" />
+
+    <!-- Main Title -->
+    <TextView
+        android:id="@+id/chooseRoomTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|center_horizontal"
+        android:layout_marginStart="110dp"
+        android:layout_marginTop="-75dp"
+        android:text="@string/choose_room"
+        android:textColor="#FDFDFD"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <!-- Subtitle -->
+    <TextView
+        android:id="@+id/chooseRoomSubtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:layout_marginStart="110dp"
+        android:layout_gravity="start"
+        android:text="@string/pick_vibe"
+        android:textColor="#FFFFFF" />
+
+    <!-- Scrollable Room Grid -->
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_marginTop="9dp"
+        android:fillViewport="true"
+        android:background="@android:color/transparent">
+
+        <GridLayout
+            android:id="@+id/roomGrid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:orientation="horizontal"
+            android:padding="1dp"
+            android:background="@android:color/transparent" />
+    </ScrollView>
+</LinearLayout>

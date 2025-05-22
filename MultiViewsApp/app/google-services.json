@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646706992339",
+    "project_id": "users-list123",
+    "storage_bucket": "users-list123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646706992339:android:7474f8b3670667000bb026",
+        "android_client_info": {
+          "package_name": "com.example.multiviewsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTS0OIkAlgwPYZuyWyboi-sIC1uQmhmTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
